@@ -59,3 +59,10 @@ Sinta-se à vontade para contribuir com melhorias, sugestões ou correções!
 
 ## Licença
 Este projeto está licenciado sob a MIT License.
+
+## Time do projeto
+   - Dilermando Afonso
+   - Labelle Cândido
+   - Michael Azevedo
+   - Rafael "A lenda" Diniz
+
