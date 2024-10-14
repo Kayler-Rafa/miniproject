@@ -12,10 +12,10 @@ O projeto é dividido em três partes:
 
    **Imagens:**
    - Antes: ![Imagem 1](image1.png)
-   - Depois: ![Imagem Processada 1](processed_1.png)
+   - Depois: ![Imagem Processada 1](processed_1.jpg)
 
    - Antes: ![Imagem 2](image2.jpg)
-   - Depois: ![Imagem Processada 2](processed_2.png)
+   - Depois: ![Imagem Processada 2](processed_2.jpg)
 
 ### 2. **Modelos Cliente-Servidor e Peer-to-Peer**
    - **Modelo Cliente-Servidor:** Um servidor multi-threaded escuta conexões de clientes, processa solicitações e responde simultaneamente.
